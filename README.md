@@ -38,6 +38,11 @@ This project focuses on practicing **event-driven programming**, handling UI con
 
 ---
 
+# 📷 Screenshots
+
+<img width="1342" height="685" alt="image" src="https://github.com/user-attachments/assets/194931f0-888b-4426-ba0d-01b70d1c7f00" />
+
+
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
@@ -45,3 +50,6 @@ This project focuses on practicing **event-driven programming**, handling UI con
 
    ```bash
    git clone https://github.com/YourUsername/Pizza-Ordering-System.git
+
+
+   
