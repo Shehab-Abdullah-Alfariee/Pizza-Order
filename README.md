@@ -46,11 +46,9 @@ This project focuses on practicing **event-driven programming**, handling UI con
 ## ▶️ How to Run the Project
 
 1. Clone the repository:
-https://github.com/Shehab-Abdullah-Alfariee/Pizza-Order
-
 
    ```bash
-   git clone https://github.com/YourUsername/Pizza-Ordering-System.git
+   git clone https://github.com/Shehab-Abdullah-Alfariee/Pizza-Order
 
 
    
